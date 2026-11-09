@@ -1,0 +1,243 @@
+WELCOME TO COLLEGE CANTEEN
+
+===== MAIN MENU =====
+1. View Food Menu
+2. Add Food Item
+3. View Current Order
+4. Generate Bill
+5. Exit
+Enter your choice: 1
+
+===  College Canteen Menu===
+1. Sandwich Rs. 70
+2. Burger Rs. 80
+3. Pizza Rs. 120
+4. Chai Rs. 10
+5. Samosa Rs. 20
+6. Coffee Rs. 30
+
+===== MAIN MENU =====
+1. View Food Menu
+2. Add Food Item
+3. View Current Order
+4. Generate Bill
+5. Exit
+Enter your choice: 9
+Invalid choice! Please try again.
+
+===== MAIN MENU =====
+1. View Food Menu
+2. Add Food Item
+3. View Current Order
+4. Generate Bill
+5. Exit
+Enter your choice: 4
+Your order is empty!
+
+===== MAIN MENU =====
+1. View Food Menu
+2. Add Food Item
+3. View Current Order
+4. Generate Bill
+5. Exit
+Enter your choice: 2
+
+===  College Canteen Menu===
+1. Sandwich Rs. 70
+2. Burger Rs. 80
+3. Pizza Rs. 120
+4. Chai Rs. 10
+5. Samosa Rs. 20
+6. Coffee Rs. 30
+Enter food number: 99
+Enter quantity: 1
+Invalid food choice!
+
+===== MAIN MENU =====
+1. View Food Menu
+2. Add Food Item
+3. View Current Order
+4. Generate Bill
+5. Exit
+Enter your choice: 2
+
+===  College Canteen Menu===
+1. Sandwich Rs. 70
+2. Burger Rs. 80
+3. Pizza Rs. 120
+4. Chai Rs. 10
+5. Samosa Rs. 20
+6. Coffee Rs. 30
+Enter food number: abc
+Please enter numbers only!
+
+===== MAIN MENU =====
+1. View Food Menu
+2. Add Food Item
+3. View Current Order
+4. Generate Bill
+5. Exit
+Enter your choice: 2
+
+===  College Canteen Menu===
+1. Sandwich Rs. 70
+2. Burger Rs. 80
+3. Pizza Rs. 120
+4. Chai Rs. 10
+5. Samosa Rs. 20
+6. Coffee Rs. 30
+Enter food number: 1
+Enter quantity: xyz
+Please enter numbers only!
+
+===== MAIN MENU =====
+1. View Food Menu
+2. Add Food Item
+3. View Current Order
+4. Generate Bill
+5. Exit
+Enter your choice: 2
+
+===  College Canteen Menu===
+1. Sandwich Rs. 70
+2. Burger Rs. 80
+3. Pizza Rs. 120
+4. Chai Rs. 10
+5. Samosa Rs. 20
+6. Coffee Rs. 30
+Enter food number: 1
+Enter quantity: 0
+Quantity must be greater than zero!
+
+===== MAIN MENU =====
+1. View Food Menu
+2. Add Food Item
+3. View Current Order
+4. Generate Bill
+5. Exit
+Enter your choice: 2
+
+===  College Canteen Menu===
+1. Sandwich Rs. 70
+2. Burger Rs. 80
+3. Pizza Rs. 120
+4. Chai Rs. 10
+5. Samosa Rs. 20
+6. Coffee Rs. 30
+Enter food number: 1
+Enter quantity: -2
+Quantity must be greater than zero!
+
+===== MAIN MENU =====
+1. View Food Menu
+2. Add Food Item
+3. View Current Order
+4. Generate Bill
+5. Exit
+Enter your choice: 2
+
+===  College Canteen Menu===
+1. Sandwich Rs. 70
+2. Burger Rs. 80
+3. Pizza Rs. 120
+4. Chai Rs. 10
+5. Samosa Rs. 20
+6. Coffee Rs. 30
+Enter food number: 1
+Enter quantity: 2
+Sandwich added successfully!
+
+===== MAIN MENU =====
+1. View Food Menu
+2. Add Food Item
+3. View Current Order
+4. Generate Bill
+5. Exit
+Enter your choice: 2
+
+===  College Canteen Menu===
+1. Sandwich Rs. 70
+2. Burger Rs. 80
+3. Pizza Rs. 120
+4. Chai Rs. 10
+5. Samosa Rs. 20
+6. Coffee Rs. 30
+Enter food number: 3
+Enter quantity: 1
+Pizza added successfully!
+
+===== MAIN MENU =====
+1. View Food Menu
+2. Add Food Item
+3. View Current Order
+4. Generate Bill
+5. Exit
+Enter your choice: 2
+
+===  College Canteen Menu===
+1. Sandwich Rs. 70
+2. Burger Rs. 80
+3. Pizza Rs. 120
+4. Chai Rs. 10
+5. Samosa Rs. 20
+6. Coffee Rs. 30
+Enter food number: 4
+Enter quantity: 2
+Chai added successfully!
+
+===== MAIN MENU =====
+1. View Food Menu
+2. Add Food Item
+3. View Current Order
+4. Generate Bill
+5. Exit
+Enter your choice: 2
+
+===  College Canteen Menu===
+1. Sandwich Rs. 70
+2. Burger Rs. 80
+3. Pizza Rs. 120
+4. Chai Rs. 10
+5. Samosa Rs. 20
+6. Coffee Rs. 30
+Enter food number: 4
+Enter quantity: 3
+Chai added successfully!
+
+===== MAIN MENU =====
+1. View Food Menu
+2. Add Food Item
+3. View Current Order
+4. Generate Bill
+5. Exit
+Enter your choice: 3
+
+YOUR CURRENT ORDER:
+{'Sandwich': 2, 'Pizza': 1, 'Chai': 5}
+
+===== MAIN MENU =====
+1. View Food Menu
+2. Add Food Item
+3. View Current Order
+4. Generate Bill
+5. Exit
+Enter your choice: 4
+Discount: Rs. 31.0
+Final Amount: Rs. 279.0
+
+================================
+       COLLEGE CANTEEN
+            RECEIPT
+================================
+Item        Qty    Price    Total
+--------------------------------
+Sandwich    2    Rs. 70    Rs. 140
+Pizza    1    Rs. 120    Rs. 120
+Chai    5    Rs. 10    Rs. 50
+--------------------------------
+Subtotal: Rs. 310.00
+Discount: Rs. 31.00
+Final Amount: Rs. 279.00
+================================
+      THANK YOU! VISIT AGAIN
+================================
