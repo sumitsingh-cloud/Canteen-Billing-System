@@ -13,6 +13,7 @@ A simple menu-driven **Python** program that manages food orders, calculates the
 | S. No. | USN | Name |
 |:------:|-----|------|
 | 1 | 25BCAR0411 | Sumit Singh |
+| 2 | 25BCAR0427 | Srisha G Shetty |
 
 ---
 
